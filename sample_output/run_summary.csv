@@ -1,0 +1,76 @@
+dataset_id,title,modified,rows,downloaded_at
+1su6-zfft,Patient Engagement PPS-Exempt Cancer Hospital - Hospital,2026-07-22,11,2026-10-28T15:48:33+00:00
+3n5g-6b7f,Medicare Spending Per Beneficiary - National,2026-07-22,1,2026-10-28T15:48:32+00:00
+48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - Facility,2026-07-22,4744,2026-10-28T15:48:30+00:00
+4dyz-5kt1,Patient Engagement PPS-Exempt Cancer Hospital - National,2026-07-22,1,2026-10-28T15:48:33+00:00
+4gkm-5ypv,Unplanned Hospital Visits - State,2026-09-10,784,2026-10-28T15:48:32+00:00
+4j6d-yzce,Measure Dates,2026-07-28,171,2026-10-28T15:48:32+00:00
+4jcv-atw7,Ambulatory Surgical Center Quality Measures - Facility,2025-12-16,5711,2026-10-28T15:48:30+00:00
+5gv4-jwyv,Table 1: FY2024 Net Change in Base Operating DRG Payment Amount,2025-12-09,33,2026-10-28T15:48:30+00:00
+5hk7-b79m,Medicare Spending Per Beneficiary - Hospital Additional Decimal Places,2026-01-26,2974,2026-10-28T15:48:31+00:00
+632h-zaca,Unplanned Hospital Visits - Hospital,2026-09-10,67060,2026-10-28T15:48:33+00:00
+6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,2026-07-22,840,2026-10-28T15:48:31+00:00
+6qxe-iqz8,Veterans Health Administration Behavioral Health Data,2026-07-22,660,2026-10-28T15:48:32+00:00
+77hc-ibv8,Healthcare Associated Infections - Hospital,2026-07-22,172440,2026-10-28T15:48:32+00:00
+7peb-i4pi,Rural Emergency Hospital Outpatient Imaging Efficiency - Hospital,2026-07-22,43,2026-10-28T15:48:33+00:00
+84jm-wiui,Patient survey (HCAHPS) - State,2026-07-22,2856,2026-10-28T15:48:30+00:00
+97xg-v3wv,Rural Emergency Hospital Timely and Effective Care - Hospital,2026-07-22,172,2026-10-28T15:48:33+00:00
+99ue-w85f,Patient survey (HCAHPS) - National,2026-07-22,51,2026-10-28T15:48:30+00:00
+9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - National,2026-07-22,51,2026-10-28T15:48:31+00:00
+9n3s-kdb3,Hospital Readmissions Reduction Program,2026-01-26,18330,2026-10-28T15:48:31+00:00
+apyc-v239,Timely and Effective Care - State,2026-07-22,1736,2026-10-28T15:48:32+00:00
+avtz-f2ge,Hospital Value-Based Purchasing (HVBP) - Person and Community Engagement Domain Scores (HCAHPS),2026-01-26,2455,2026-10-28T15:48:31+00:00
+axe7-s95e,Ambulatory Surgical Center Quality Measures - State,2025-12-16,54,2026-10-28T15:48:29+00:00
+bs2r-24vh,Complications and Deaths - State,2026-09-10,1120,2026-10-28T15:48:30+00:00
+bzsr-4my4,Data Updates,2026-07-15,1229,2026-10-28T15:48:32+00:00
+cvcs-xecj,Unplanned Hospital Visits - National,2026-09-10,14,2026-10-28T15:48:32+00:00
+d2k3-k3ac,Rural Emergency Hospital Timely and Effective Care - National,2026-07-22,8,2026-10-28T15:48:33+00:00
+dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data - by State,2026-07-22,52,2026-10-28T15:48:32+00:00
+dgck-syfz,Patient survey (HCAHPS) - Hospital,2026-07-22,325720,2026-10-28T15:48:33+00:00
+dgmq-aat3,Hospital Value-Based Purchasing (HVBP) - Safety,2026-04-28,2455,2026-10-28T15:48:31+00:00
+di9i-zzrc,Outpatient Imaging Efficiency - National,2026-07-22,2,2026-10-28T15:48:32+00:00
+f4ga-b9gx,Promoting Interoperability - Hospital,2026-07-22,4626,2026-10-28T15:48:33+00:00
+hbf-map,Birthing Friendly Hospitals with Geocoded Addresses,2026-07-28,2263,2026-10-28T15:48:33+00:00
+if5v-4x48,Outpatient Imaging Efficiency - State,2026-07-22,112,2026-10-28T15:48:32+00:00
+isrn-hqyy,Timely and Effective Care - National,2026-07-22,45,2026-10-28T15:48:32+00:00
+iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - Hospital,2026-07-22,748,2026-10-28T15:48:31+00:00
+jfnd-nl7s,Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - National,2026-09-10,4,2026-10-28T15:48:31+00:00
+k2ze-bqvw,Healthcare Associated Infections - State,2026-07-22,1008,2026-10-28T15:48:30+00:00
+k653-4ka8,Safety and Healthcare-Associated Infection Measures - PPS-Exempt Cancer Hospital,2026-07-22,308,2026-10-28T15:48:31+00:00
+muwa-iene,CMS Medicare PSI-90 and component measures - six-digit estimate dataset,2026-07-22,52338,2026-10-28T15:48:30+00:00
+mxtu-43qs,Patient-Reported Outcomes - Hospital,2026-08-05,4626,2026-10-28T15:48:33+00:00
+nrdb-3fcy,Maternal Health - Hospital,2026-07-22,17936,2026-10-28T15:48:33+00:00
+nrth-mfg3,Medicare Hospital Spending by Claim,2026-01-26,63646,2026-10-28T15:48:32+00:00
+ptds-r8im,Veterans Health Administration Timely and Effective Care Data,2026-07-22,1452,2026-10-28T15:48:32+00:00
+pudb-wetr,Hospital Value-Based Purchasing (HVBP) - Clinical Outcomes Domain Scores,2026-01-26,2455,2026-10-28T15:48:31+00:00
+q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data - by Facility,2026-07-22,1410,2026-10-28T15:48:32+00:00
+qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - State,2026-07-22,2856,2026-10-28T15:48:31+00:00
+qigt-w5cx,Palliative Care - PPS-Exempt Cancer Hospital - National,2026-07-22,4,2026-10-28T15:48:32+00:00
+qoeg-w7ck,Palliative Care - PPS-Exempt Cancer Hospital - Hospital,2026-07-22,44,2026-10-28T15:48:32+00:00
+qqw3-t4ie,Complications and Deaths - National,2026-09-10,20,2026-10-28T15:48:30+00:00
+rrqw-56er,Medicare Spending Per Beneficiary - Hospital,2026-07-22,4626,2026-10-28T15:48:32+00:00
+rs6n-9qwg,Medicare Spending Per Beneficiary - State,2026-07-22,56,2026-10-28T15:48:32+00:00
+s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,2026-07-22,15,2026-10-28T15:48:30+00:00
+s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data - National,2026-07-22,1,2026-10-28T15:48:31+00:00
+su9h-3pvj,Hospital Value-Based Purchasing (HVBP) - Efficiency Scores,2026-01-26,2455,2026-10-28T15:48:31+00:00
+tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,2026-07-22,1,2026-10-28T15:48:30+00:00
+tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,2026-01-26,320,2026-10-28T15:48:30+00:00
+u625-zae7,Table 3: FY2024 Percent Change in Medicare Payments,2025-12-09,23,2026-10-28T15:48:30+00:00
+uk3n-au7a,Rural Emergency Hospital Unplanned Hospital Visits - National,2026-07-22,1,2026-10-28T15:48:33+00:00
+uyx4-5s7f,Veterans Health Administration Provider Level Data,2026-07-22,132,2026-10-28T15:48:32+00:00
+vtqa-m4zn,Table 4: FY2024 Value-Based Incentive Payment Amount,2025-12-09,25,2026-10-28T15:48:30+00:00
+wkfw-kthe,Outpatient Imaging Efficiency - Hospital,2026-07-22,9252,2026-10-28T15:48:32+00:00
+wue8-3vwe,Ambulatory Surgical Center Quality Measures - National,2025-12-16,1,2026-10-28T15:48:29+00:00
+x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,2026-07-22,56,2026-10-28T15:48:30+00:00
+xrgf-x36b,Table 2: FY2024 Distribution of Net Change in Base Operating DRG Payment Amount,2025-12-09,13,2026-10-28T15:48:30+00:00
+xubh-q36u,Hospital General Information,2026-07-22,5419,2026-10-28T15:48:31+00:00
+y9us-9xdf,Footnote Crosswalk,2025-09-18,32,2026-10-28T15:48:30+00:00
+yd3s-jyhd,Healthcare Associated Infections - National,2026-07-22,6,2026-10-28T15:48:30+00:00
+yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,2026-07-22,92520,2026-10-28T15:48:31+00:00
+ynj2-r877,Complications and Deaths - Hospital,2026-09-10,95800,2026-10-28T15:48:31+00:00
+ypbt-wvdk,Hospital Value-Based Purchasing (HVBP) - Total Performance Score,2026-01-26,2455,2026-10-28T15:48:31+00:00
+yq43-i98g,Hospital-Acquired Condition (HAC) Reduction Program,2026-01-26,3055,2026-10-28T15:48:31+00:00
+yv7e-xc69,Timely and Effective Care - Hospital,2026-07-22,138084,2026-10-28T15:48:33+00:00
+z8ax-x9j1,Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - Hospital,2026-09-10,44,2026-10-28T15:48:31+00:00
+zez1-ka2w,Rural Emergency Hospital Unplanned Hospital Visits - Hospital,2026-07-22,43,2026-10-28T15:48:33+00:00
+zt3q-3e1z,Rural Emergency Hospital Outpatient Imaging Efficiency - National,2026-07-22,1,2026-10-28T15:48:33+00:00

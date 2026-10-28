@@ -1,0 +1,2 @@
+# No third-party packages required: cms_hospitals_sync.py uses only the Python
+# standard library (Python 3.8+). This file is intentionally empty of dependencies.
